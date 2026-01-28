@@ -11,7 +11,7 @@ git clone https://github.com/ArgaNitibaskara/Bimkar_Tiket.git
 ### 2. **Masuk ke direktori**
 
 ```bash
-cd Ticketing_App_Bengkod
+cd Bimkar_Tiket
 ```
 
 ### 3. **Buat env**
@@ -44,7 +44,7 @@ php artisan key:generate
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=ticketing_app_bengkod
+DB_DATABASE=bimkar_tiket
 DB_USERNAME=root
 DB_PASSWORD=
 ```
